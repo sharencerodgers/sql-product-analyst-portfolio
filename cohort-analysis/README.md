@@ -1,6 +1,6 @@
-# 📈 SQL Portfolio for Product Analyst & Support Roles
+# 📈 SQL Portfolio for Education Analyst & Support Roles
 
-Welcome to my SQL portfolio! This repository includes real-world SQL projects that showcase my ability to extract insights, troubleshoot data, and support product decision-making using SQL.
+Welcome to my SQL portfolio! This project showcases how SQL can be used to extract insights from education data, track student engagement, and support data-driven decisions in an edtech or academic setting.
 
 ---
 
