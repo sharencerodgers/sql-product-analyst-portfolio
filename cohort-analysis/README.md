@@ -1,28 +1,32 @@
-# 🎓 Education Analytics – SQL Portfolio Project
+# 📈 SQL Portfolio for Product Analyst & Support Roles
 
-This project analyzes student engagement and course performance using mock data from an educational platform.
+Welcome to my SQL portfolio! This repository includes real-world SQL projects that showcase my ability to extract insights, troubleshoot data, and support product decision-making using SQL.
 
-## 📌 Project Goals
-- Identify active student patterns
-- Track course popularity and performance
-- Understand category-level engagement
+---
 
-## 🧾 Data Overview
-**File:** `student_activity.csv`  
-**Fields:**
-- `student_id`: Unique student identifier
-- `signup_date`: Date of account creation
-- `last_login_date`: Last date the student was active
-- `enrolled_course`: Name of the course enrolled
-- `course_category`: Subject area (Math, History, etc.)
-- `activity_score`: Engagement metric from 0–100
+## 🔍 Featured Projects
 
-## 🧠 Insights from SQL Queries
-- Count of total students and monthly active users
-- Average engagement scores by course
-- Most popular courses by student count
-- Performance metrics by course category
+### 🎓 [Education Analytics](./education-analytics/README.md)
+Analyzes student engagement and course performance using mock data. Includes:
+- Active student tracking
+- Course popularity analysis
+- Category-level engagement scores
 
-## 📂 Files Included
-- `student_activity.csv` – Mock dataset
-- `queries.sql` – Sample SQL analysis queries
+---
+
+## 🧠 SQL Skills Demonstrated
+- Filtering, joining, and aggregating data
+- Calculating KPIs (e.g. active users, engagement scores)
+- Working with time-based data
+- Creating clear, organized queries for real use cases
+
+---
+
+## 🚧 More Projects Coming Soon:
+- Support Ticket Analytics
+- A/B Test Evaluation
+- Churn Analysis
+
+---
+
+Thanks for checking out my work!
